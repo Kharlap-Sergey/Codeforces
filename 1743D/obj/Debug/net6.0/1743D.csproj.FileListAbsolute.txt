@@ -1,0 +1,15 @@
+C:\Projects\Codeforces\1743D\bin\Debug\net6.0\1743D.exe
+C:\Projects\Codeforces\1743D\bin\Debug\net6.0\1743D.deps.json
+C:\Projects\Codeforces\1743D\bin\Debug\net6.0\1743D.runtimeconfig.json
+C:\Projects\Codeforces\1743D\bin\Debug\net6.0\1743D.dll
+C:\Projects\Codeforces\1743D\bin\Debug\net6.0\1743D.pdb
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.csproj.AssemblyReference.cache
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.AssemblyInfoInputs.cache
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.AssemblyInfo.cs
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.csproj.CoreCompileInputs.cache
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.dll
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\refint\1743D.dll
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.pdb
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\1743D.genruntimeconfig.cache
+C:\Projects\Codeforces\1743D\obj\Debug\net6.0\ref\1743D.dll

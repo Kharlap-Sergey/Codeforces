@@ -1,0 +1,15 @@
+C:\Projects\Codeforces\1473E_2\bin\Debug\net6.0\1473E_2.exe
+C:\Projects\Codeforces\1473E_2\bin\Debug\net6.0\1473E_2.deps.json
+C:\Projects\Codeforces\1473E_2\bin\Debug\net6.0\1473E_2.runtimeconfig.json
+C:\Projects\Codeforces\1473E_2\bin\Debug\net6.0\1473E_2.dll
+C:\Projects\Codeforces\1473E_2\bin\Debug\net6.0\1473E_2.pdb
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.csproj.AssemblyReference.cache
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.AssemblyInfoInputs.cache
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.AssemblyInfo.cs
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.csproj.CoreCompileInputs.cache
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.dll
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\refint\1473E_2.dll
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.pdb
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\1473E_2.genruntimeconfig.cache
+C:\Projects\Codeforces\1473E_2\obj\Debug\net6.0\ref\1473E_2.dll
